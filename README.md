@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **edgarolly19@gmail.com**
 
-- 📄 Know about my experiences [I'm currently working at IBM since 2020](I'm currently working at IBM since 2020)
+- 📄 Know about my experiences [I'm currently working at IBM since 2020 as Application Developer](I'm currently working at IBM since 2020 as Application Developer)
 
-- ⚡ Fun fact **I'm planning a change of field, to the data manipulation and engineering**
+- ⚡ Fun fact **I'm planning a change of field to data manipulation and engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
